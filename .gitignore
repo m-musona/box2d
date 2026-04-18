@@ -9,5 +9,12 @@ CMakeUserPresets.json
 .cache/
 .idea/
 .claude/
+**/bin/
+**/bin-int/
+Intermediates
+*.sln
+*.vcxproj
+*.vcxproj.filters
+*.vcxproj.user
 bin/
 bin-int/
